@@ -1,0 +1,3 @@
+# Rest API Spec
+
+This library is a simple JAVA library that helps you build your own rest api, it contains commonly used data models, error definitions, utils ...
