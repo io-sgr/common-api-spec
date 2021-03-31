@@ -59,7 +59,7 @@
         <dep.jackson.version>2.10.3</dep.jackson.version>
 
         <!-- From Google -->
-        <dep.google-guava.version>28.2-jre</dep.google-guava.version>
+        <dep.google-guava.version>29.0-jre</dep.google-guava.version>
         <dep.google-findbug.version>3.0.2</dep.google-findbug.version>
 
         <!-- For http/rest -->
